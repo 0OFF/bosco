@@ -1,4 +1,4 @@
-if game.Placeid == 10001513103 then
+if game.PlaceId == 10001513103 then
     _G.target = 'nul'
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
